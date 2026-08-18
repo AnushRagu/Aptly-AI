@@ -169,7 +169,7 @@ Feedback can focus on:
 
 ### Interview Room
 
-![Aptly Interview Room](assets/screenshots/interview-room.png)
+![Aptly Interview Room](assets/screenshots/home.png)
 
 ### Interview Report
 
@@ -177,7 +177,7 @@ Feedback can focus on:
 
 ### Answer-Level Feedback
 
-![Aptly Answer Feedback](assets/screenshots/answer-feedback.png)
+![Aptly Answer Feedback](assets/screenshots/interview-profile.png)
 
 ------------------------------------------------------------------------
 
@@ -509,13 +509,3 @@ Currently supported:
 ```{=html}
 </p>
 ```
-## Screenshots
-
-### Landing Page
-![Aptly Landing Page](assets/screenshots/home.png)
-
-### Interview Setup
-![Interview Setup](assets/screenshots/interview-profile.png)
-
-### Interview Report
-![Interview Report](assets/screenshots/interview-report.png)
