@@ -509,3 +509,13 @@ Currently supported:
 ```{=html}
 </p>
 ```
+## Screenshots
+
+### Landing Page
+![Aptly Landing Page](assets/screenshots/home.png)
+
+### Interview Setup
+![Interview Setup](assets/screenshots/interview-profile.png)
+
+### Interview Report
+![Interview Report](assets/screenshots/interview-report.png)
